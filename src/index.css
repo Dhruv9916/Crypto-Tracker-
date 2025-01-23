@@ -20,7 +20,7 @@ body{
 
 ::selection{
   background-color: var(--blue);
-  color: var(--color);
+  color: var(--white);
 }
 
 /* width */

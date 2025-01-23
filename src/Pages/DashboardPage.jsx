@@ -23,7 +23,7 @@ function DashboardPage() {
   return (
     <div>
       <Header />
-      <TabsComponent coins={coins}/>
+      <TabsComponent coins={coins} />
     </div>
   );
 }
