@@ -4,6 +4,8 @@ import TabsComponent from "../Components/DashBoard/Tabs";
 import axios from "axios";
 import Search from "../Components/DashBoard/Search";
 
+
+
 function DashboardPage() {
   const [coins, setCoins] = useState([]);
   const [search, setSearch] = useState("");
@@ -38,6 +40,7 @@ function DashboardPage() {
       <Header />
       <Search search={search} onSearchChange={onSearchChange}></Search>
       <TabsComponent coins={filteredCoins} />
+     
     </div>
   );
 }
