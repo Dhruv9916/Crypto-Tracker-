@@ -9,7 +9,7 @@ function Search({search,onSearchChange}) {
       <SearchIcon />
       <input
         type="text"
-        placeholder="Search"
+        placeholder="Search by Coin Name or Symbol..."
         value={search}
         onChange={(e) => onSearchChange(e)}
       />

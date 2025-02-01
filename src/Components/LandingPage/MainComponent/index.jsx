@@ -16,7 +16,7 @@ function MainComponent() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          Track Crypto
+          Real-Time Crypto Data 
         </motion.h1>
         <motion.h1
           className="real-time-heading"
@@ -24,7 +24,7 @@ function MainComponent() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.5 }}
         >
-          Real Time.
+          at Your Fingertips
         </motion.h1>
         <motion.p
           className="info-text"
@@ -32,8 +32,7 @@ function MainComponent() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.75 }}
         >
-          Track crypto with the public api in real time.Visit the Dashboard to
-          do so!!
+          "Stay updated with real-time cryptocurrency data from the CoinGecko API. Explore market trends and track your portfolio by visiting the Dashboard!"
         </motion.p>
         <motion.div
           className="btn-flex"
