@@ -1,8 +1,24 @@
-# React + Vite
+# 🚀 Crypto Tracker Dashboard  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A cryptocurrency tracking dashboard built with **React**, **Vite**, and **Material UI**, fetching real-time data from the **CoinGecko API**.  
 
-Currently, two official plugins are available:
+## 🌟 Why I Built This  
+This project was created to practice **React development with Vite**, **API integration**, and **modern UI/UX design using Material UI**. The goal was to create a fast, responsive, and user-friendly cryptocurrency tracker.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features  
+✅ Real-time cryptocurrency tracking  
+✅ Portfolio performance monitoring  
+✅ Interactive UI with **Material UI**  
+✅ Smooth animations using **Framer Motion**  
+✅ Dynamic routing with **React Router**  
+✅ Search and filter functionality  
+
+## 🛠️ Technologies Used  
+- **Vite** ⚡ (Fast build tool for React)  
+- **React.js** ⚛️  
+- **Material UI** 🎨  
+- **Framer Motion** 🎞️  
+- **React Router** 🛤️  
+- **CoinGecko API** 🔗  
+
+
